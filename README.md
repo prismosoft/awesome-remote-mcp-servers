@@ -1814,6 +1814,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Prices, photo tips and a start link for AI growing-up morph videos made from photos across the years.
 - [invideo](https://invideo.io) `https://mcp.invideo.io/mcp`
   🔓 - Generate and edit videos from a prompt.
+- [Kinetune](https://kinetune.com/developers#mcp) `https://kinetune.com/mcp`
+  [![Kinetune MCP connector](https://glama.ai/mcp/connectors/com.kinetune/kinetune/badges/score.svg)](https://glama.ai/mcp/connectors/com.kinetune/kinetune)
+  🔐 - Word-synced lyric videos (9:16, 16:9, 1:1) and Spotify Canvas loops from your songs, quoted in credits first.
 - [Kleo](https://kleooai.com) `https://mcp.kleooai.com/mcp`
   [![Kleo MCP connector](https://glama.ai/mcp/connectors/com.kleooai/kleo/badges/score.svg)](https://glama.ai/mcp/connectors/com.kleooai/kleo)
   🔐 - Narrated 4K 60 fps films from a brief, realistic or animated, with every shot generated.
